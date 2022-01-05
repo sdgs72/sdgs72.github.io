@@ -8,10 +8,16 @@
     .tempo {
         height: 700px;
     }
+    .tempo2 {
+        height: 850px;
+    }
 }
 
 @media screen and (max-width: 800px) {
     .tempo {
+        height: 100%;
+    }
+    .tempo2 {
         height: 100%;
     }
 }
@@ -68,6 +74,10 @@
 }
 
 .tempo {
+    width: 100%;
+}
+
+.tempo2 {
     width: 100%;
 }
 
